@@ -23,12 +23,6 @@ Analyze:
 * Sales Trends
 * Seller Performance
 
-## Tools
-
-* SQL
-* Microsoft SQL Server
-* SQL Server Management Studio (SSMS)
-
 ## Learning Reference
 
 This project is an implementation inspired by the Data Warehouse and Analytics project methodology taught by **Data with Baraa**, adapted to the Olist Brazilian E-Commerce dataset.
